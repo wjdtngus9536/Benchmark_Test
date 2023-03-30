@@ -1,5 +1,4 @@
 # AI_Benchmark_Test
----
 
 ## ResNet50
 최고의 결과 epoch : 계산 중..
